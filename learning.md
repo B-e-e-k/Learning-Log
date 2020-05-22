@@ -38,7 +38,7 @@ I'm logging everything in a personal, free <a href="https://app.asana.com/" targ
 This is super helpful for listing skills & areas I want to learn, and keeping track of what's next. Or what other JS frameworks could be cool to learn. This way if I'm tired after working a full day, I can just open up this project and pick the next thing to learn/watch. 
 
 It's 10:30pm, and I'm about to start watching <a href="https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc" target="_blank">this tutorial series</a> as a proper introduction to Web Dev.
-<hr/>
+
 
 
 <h3>Wednesday 20 May, 2020</h3>
@@ -69,6 +69,18 @@ So the updated plan looks like this:<br>
 
 I'll also curate a list of all the articles, videos, tutorials and resources I found the most useful whilst deepdiving on Wordpress. I figure that'll be really useful for other beginners. 
 <br><br>
+
+
+
+<h3>Friday 22 May, 2020</h3>
+<hr/>
+
+I found <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=5" target="_blank">this tutorial series</a> on Wordpress. It's the basics. But honestly, when you've come from a theme/pagebuilder background, you just don't know most of these basics!<br><br>
+
+Damn, I feel like an absolute beginner here. <br><br>
+
+I guess I'm pretty decent at general design/UI already, so that's something.<br>
+I feel like code, which has a yes/no answer (as opposed to design which is up to the viewer's discretion) may be quicker to learn anyway. 
 
 
 
