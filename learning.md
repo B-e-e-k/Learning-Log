@@ -75,15 +75,16 @@ I'll also curate a list of all the articles, videos, tutorials and resources I f
 <h3>Friday 22 May, 2020</h3>
 <hr/>
 
-I found <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=5" target="_blank">this tutorial series</a> on Wordpress. It's the basics. But honestly, when you've come from a theme/pagebuilder background, you just don't know most of these basics!<br><br>
+I found <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5" target="_blank">this tutorial series</a> on Wordpress. It's the basics. But honestly, when you've come from a theme/pagebuilder background, you just don't know most of these basics!<br><br>
 
 Damn, I feel like an absolute beginner here. <br><br>
 
 I guess I'm pretty decent at general design/UI already, so that's something.<br>
-I feel like code, which has a yes/no answer (as opposed to design which is up to the viewer's discretion) may be quicker to learn anyway. 
+I feel like code, which has a yes/no answer (as opposed to design which is up to the viewer's discretion) may be quicker to learn anyway. <br><br>
 
-
-
+<h3>Sunday 24 May, 2020</h3>
+<hr/>
+This weekend I've spent a bit of time going through <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5" target="_blank">this WP development tutorial</a>. It's incredible. It's so easy to follow and understand how everything works. I've honestly been using WP for the last year for client sites, and I've learnt more over the course of this weekend. 
 
 
 
