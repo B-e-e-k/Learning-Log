@@ -84,10 +84,17 @@ I feel like code, which has a yes/no answer (as opposed to design which is up to
 
 <h3>Sunday 24 May, 2020</h3>
 <hr/>
-This weekend I've spent a bit of time going through <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5" target="_blank">this WP development tutorial</a>. It's incredible. It's so easy to follow and understand how everything works. I've honestly been using WP for the last year for client sites, and I've learnt more over the course of this weekend. 
+This weekend I've spent a bit of time going through <a href="https://www.youtube.com/watch?v=ynA8_5jAc1s&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5" target="_blank">this WP development tutorial</a>. It's incredible. It's so easy to follow and understand how everything works. I've honestly been using WP for the last year for client sites, and I've learnt more over the course of this weekend. <br><br>
 
 
+<h3>Friday 28 May, 2020</h3>
+<hr/>
 
+Quick note, after that first video series I feel SO much more confident with client websites at work. This learning thing is paying divedends already. <br><br>
+I've finding weekday evenings are split between workout/code all night OR drum practice/code all night. And then my weekends are just 5-6 blocks of tutorials & study. <br><br>
+
+The WP/PHP tutorial series above was a great intro into WP custom themes, page stucture and php. Next up, it's time to get into his <a href="https://www.youtube.com/watch?v=2Zt8va_6HRk&list=PLillGF-RfqbaKe3TWtwDW8vYV2MHIFPEi" target="_blank">Bootstrap + WP intro series.</a> by Traversy Media. 
+<br><br>
 
 
 
